@@ -1,0 +1,42 @@
+{
+  "merchants": [
+    {
+      "id": "6588000000000010"
+    },
+    {
+      "id": "6588000000000011"
+    }
+  ],
+  "statuses": [
+    {
+      "id": 1,
+      "displayName": "submitted"
+    },
+    {
+      "id": 2,
+      "displayName": "canceled"
+    },
+    {
+      "id": 3,
+      "displayName": "underwriting"
+    }
+  ],
+  "merchantStatuses": [
+    {
+      "id": 1,
+      "merchantNumber": "6588000000000010",
+      "status": {
+        "id": 1,
+        "displayName": "submitted"
+      }
+    },
+    {
+      "id": 2,
+      "merchantNumber": "6588000000000011",
+      "status": {
+        "id": 2,
+        "displayName": "canceled"
+      }
+    }
+  ]
+}
